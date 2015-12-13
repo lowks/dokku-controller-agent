@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name = 'dokku-controller-agent',
     version = '0.1',
-    description = '',
+    description = 'dokku controller agent',
     author = u'Kristian Øllegaard',
     author_email = 'kristian@kristian.io',
     zip_safe=False,
